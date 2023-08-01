@@ -1,0 +1,25 @@
+button{
+    margin:1px;
+}
+li{
+    list-style-type:none;
+}
+.body{
+    width:100%;
+    height:auto;
+    text-align:center;
+}
+.left-body{
+    max-width:30%;
+    height:100vh;
+    float:left;
+    text-align: left;
+    overflow:scroll;
+    box-sizing: border-box;
+}
+.right-body{
+    width:70%;
+    height:auto;
+    float:right;
+    box-sizing: border-box;
+}
